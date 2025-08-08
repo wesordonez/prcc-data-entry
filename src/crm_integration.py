@@ -298,7 +298,7 @@ class CRMIntegration:
                 'formatted_data': None
             }
 
-    def batch_sync(self, consultations: List[Dict[str, Any]], use_n8n: bool = True) -> List[Dict[str, Any]]:
+    def batch_sync(self, consultations: list[Dict[str, Any]], use_n8n: bool = True) -> list[Dict[str, Any]]:
         """
         Sync multiple consultations to CRM
         

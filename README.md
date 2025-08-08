@@ -59,7 +59,7 @@ python main_app.py
 ```
 
 ### 2. Access the Application
-Open your browser and go to: http://localhost:5000
+Open your browser and go to: http://localhost:8000
 
 ### 3. Upload PDF Files
 - Drag and drop PDF files with consultation forms

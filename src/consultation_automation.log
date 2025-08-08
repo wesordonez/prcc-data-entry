@@ -1,0 +1,161 @@
+2025-08-08 17:12:06,132 - __main__ - INFO - Testing system components...
+2025-08-08 17:12:06,132 - __main__ - INFO - 🚀 Consultation automation system ready!
+2025-08-08 17:12:06,132 - __main__ - INFO - 📂 Upload directory: uploads/
+2025-08-08 17:12:06,132 - __main__ - INFO - 📂 Output directory: outputs/
+2025-08-08 17:13:10,854 - __main__ - INFO - Testing system components...
+2025-08-08 17:13:10,855 - __main__ - INFO - 🚀 Consultation automation system ready!
+2025-08-08 17:13:10,855 - __main__ - INFO - 📂 Upload directory: uploads/
+2025-08-08 17:13:10,855 - __main__ - INFO - 📂 Output directory: outputs/
+2025-08-08 17:13:10,922 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.172:8000
+2025-08-08 17:13:10,923 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-08 17:13:10,924 - werkzeug - INFO -  * Restarting with stat
+2025-08-08 17:13:11,184 - __main__ - INFO - Testing system components...
+2025-08-08 17:13:11,184 - __main__ - INFO - 🚀 Consultation automation system ready!
+2025-08-08 17:13:11,184 - __main__ - INFO - 📂 Upload directory: uploads/
+2025-08-08 17:13:11,184 - __main__ - INFO - 📂 Output directory: outputs/
+2025-08-08 17:13:11,220 - werkzeug - WARNING -  * Debugger is active!
+2025-08-08 17:13:11,230 - werkzeug - INFO -  * Debugger PIN: 376-841-687
+2025-08-08 17:14:33,130 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:14:33] "GET / HTTP/1.1" 200 -
+2025-08-08 17:14:33,245 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:14:33] "GET / HTTP/1.1" 200 -
+2025-08-08 17:14:33,395 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:14:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-08 17:18:53,518 - __main__ - INFO - 🚀 Starting complete automation workflow for: uploads/20250808_171853_business_consultations_single.pdf
+2025-08-08 17:18:53,518 - __main__ - INFO - Starting complete workflow for: uploads/20250808_171853_business_consultations_single.pdf
+2025-08-08 17:18:53,518 - __main__ - INFO - Step 1: OCR Processing...
+2025-08-08 17:18:53,518 - ocr_processor - INFO - Starting PDF processing: uploads/20250808_171853_business_consultations_single.pdf
+2025-08-08 17:18:53,518 - ocr_processor - INFO - Converting PDF to images: uploads/20250808_171853_business_consultations_single.pdf
+2025-08-08 17:18:53,526 - ocr_processor - ERROR - PDF conversion failed: Unable to get page count. Is poppler installed and in PATH?
+2025-08-08 17:18:53,527 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:18:53] "POST /upload HTTP/1.1" 200 -
+2025-08-08 17:28:20,722 - __main__ - INFO - Testing system components...
+2025-08-08 17:28:20,723 - __main__ - INFO - 🚀 Consultation automation system ready!
+2025-08-08 17:28:20,723 - __main__ - INFO - 📂 Upload directory: uploads/
+2025-08-08 17:28:20,723 - __main__ - INFO - 📂 Output directory: outputs/
+2025-08-08 17:28:20,779 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.172:8000
+2025-08-08 17:28:20,779 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-08 17:28:20,779 - werkzeug - INFO -  * Restarting with stat
+2025-08-08 17:28:21,026 - __main__ - INFO - Testing system components...
+2025-08-08 17:28:21,026 - __main__ - INFO - 🚀 Consultation automation system ready!
+2025-08-08 17:28:21,026 - __main__ - INFO - 📂 Upload directory: uploads/
+2025-08-08 17:28:21,026 - __main__ - INFO - 📂 Output directory: outputs/
+2025-08-08 17:28:21,050 - werkzeug - WARNING -  * Debugger is active!
+2025-08-08 17:28:21,057 - werkzeug - INFO -  * Debugger PIN: 376-841-687
+2025-08-08 17:28:28,500 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:28:28] "GET / HTTP/1.1" 200 -
+2025-08-08 17:28:28,605 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:28:28] "GET / HTTP/1.1" 200 -
+2025-08-08 17:28:34,108 - __main__ - INFO - 🚀 Starting complete automation workflow for: uploads/20250808_172834_business_consultations_single.pdf
+2025-08-08 17:28:34,108 - __main__ - INFO - Starting complete workflow for: uploads/20250808_172834_business_consultations_single.pdf
+2025-08-08 17:28:34,108 - __main__ - INFO - Step 1: OCR Processing...
+2025-08-08 17:28:34,108 - ocr_processor - INFO - Starting PDF processing: uploads/20250808_172834_business_consultations_single.pdf
+2025-08-08 17:28:34,108 - ocr_processor - INFO - Converting PDF to images: uploads/20250808_172834_business_consultations_single.pdf
+2025-08-08 17:28:37,362 - ocr_processor - INFO - Successfully converted 1 pages
+2025-08-08 17:28:37,362 - ocr_processor - INFO - Processing page 1/1
+2025-08-08 17:28:38,506 - ocr_processor - ERROR - OCR extraction failed: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-08 17:28:38,506 - ocr_processor - ERROR - Page 1 failed: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-08 17:28:38,506 - ocr_processor - INFO - PDF processing complete. Processed 1 pages
+2025-08-08 17:28:38,507 - __main__ - INFO - Step 2: Form Parsing...
+2025-08-08 17:28:38,507 - __main__ - WARNING - OCR failed for page 1
+2025-08-08 17:28:38,507 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:28:38] "POST /upload HTTP/1.1" 200 -
+2025-08-08 17:36:40,969 - __main__ - INFO - Testing system components...
+2025-08-08 17:36:40,969 - __main__ - INFO - 🚀 Consultation automation system ready!
+2025-08-08 17:36:40,969 - __main__ - INFO - 📂 Upload directory: uploads/
+2025-08-08 17:36:40,969 - __main__ - INFO - 📂 Output directory: outputs/
+2025-08-08 17:36:41,012 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.172:8000
+2025-08-08 17:36:41,013 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-08 17:36:41,013 - werkzeug - INFO -  * Restarting with stat
+2025-08-08 17:36:41,261 - __main__ - INFO - Testing system components...
+2025-08-08 17:36:41,261 - __main__ - INFO - 🚀 Consultation automation system ready!
+2025-08-08 17:36:41,261 - __main__ - INFO - 📂 Upload directory: uploads/
+2025-08-08 17:36:41,261 - __main__ - INFO - 📂 Output directory: outputs/
+2025-08-08 17:36:41,285 - werkzeug - WARNING -  * Debugger is active!
+2025-08-08 17:36:41,291 - werkzeug - INFO -  * Debugger PIN: 376-841-687
+2025-08-08 17:36:44,918 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:36:44] "GET / HTTP/1.1" 200 -
+2025-08-08 17:36:45,011 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:36:45] "GET / HTTP/1.1" 200 -
+2025-08-08 17:36:50,694 - __main__ - INFO - 🚀 Starting complete automation workflow for: uploads/20250808_173650_business_consultations_single.pdf
+2025-08-08 17:36:50,695 - __main__ - INFO - Starting complete workflow for: uploads/20250808_173650_business_consultations_single.pdf
+2025-08-08 17:36:50,695 - __main__ - INFO - Step 1: OCR Processing...
+2025-08-08 17:36:50,695 - ocr_processor - INFO - Starting PDF processing: uploads/20250808_173650_business_consultations_single.pdf
+2025-08-08 17:36:50,695 - ocr_processor - INFO - Converting PDF to images: uploads/20250808_173650_business_consultations_single.pdf
+2025-08-08 17:36:51,200 - ocr_processor - INFO - Successfully converted 1 pages
+2025-08-08 17:36:51,200 - ocr_processor - INFO - Processing page 1/1
+2025-08-08 17:36:55,463 - ocr_processor - INFO - Page 1 processed successfully (confidence: 56.6%)
+2025-08-08 17:36:55,463 - ocr_processor - INFO - PDF processing complete. Processed 1 pages
+2025-08-08 17:36:55,464 - __main__ - INFO - Step 2: Form Parsing...
+2025-08-08 17:36:55,470 - __main__ - INFO - Parsed data saved to: outputs/parsed_consultations_20250808_173655.json
+2025-08-08 17:36:55,470 - __main__ - INFO - Step 3: Smartsheet Automation for 1 consultations...
+2025-08-08 17:36:55,470 - smartsheet_bot - INFO - Starting browser session...
+2025-08-08 17:36:59,816 - smartsheet_bot - INFO - Browser session started successfully
+2025-08-08 17:36:59,816 - __main__ - WARNING - Skipping consultation with missing required fields: ['business_name', 'consultation_date']
+2025-08-08 17:36:59,899 - smartsheet_bot - INFO - Browser session closed
+2025-08-08 17:36:59,899 - __main__ - INFO - Complete workflow results saved to: outputs/workflow_results_20250808_173659.json
+2025-08-08 17:36:59,900 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:36:59] "POST /upload HTTP/1.1" 200 -
+2025-08-08 17:43:24,995 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:43:24] "GET / HTTP/1.1" 200 -
+2025-08-08 17:43:25,129 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:43:25] "GET / HTTP/1.1" 200 -
+2025-08-08 17:43:31,015 - __main__ - INFO - 🚀 Starting complete automation workflow for: uploads/20250808_174331_business_consultations_single.pdf
+2025-08-08 17:43:31,015 - __main__ - INFO - Starting complete workflow for: uploads/20250808_174331_business_consultations_single.pdf
+2025-08-08 17:43:31,015 - __main__ - INFO - Step 1: OCR Processing...
+2025-08-08 17:43:31,016 - ocr_processor - INFO - Starting PDF processing: uploads/20250808_174331_business_consultations_single.pdf
+2025-08-08 17:43:31,016 - ocr_processor - INFO - Converting PDF to images: uploads/20250808_174331_business_consultations_single.pdf
+2025-08-08 17:43:31,558 - ocr_processor - INFO - Successfully converted 1 pages
+2025-08-08 17:43:31,558 - ocr_processor - INFO - Processing page 1/1
+2025-08-08 17:43:34,650 - ocr_processor - INFO - Page 1 processed successfully (confidence: 41.5%)
+2025-08-08 17:43:34,650 - ocr_processor - INFO - PDF processing complete. Processed 1 pages
+2025-08-08 17:43:34,651 - __main__ - INFO - Step 2: Form Parsing...
+2025-08-08 17:43:34,652 - form_parser - ERROR - Form parsing failed: no such group
+2025-08-08 17:43:34,652 - __main__ - WARNING - Form parsing failed for page 1
+2025-08-08 17:43:34,653 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:43:34] "POST /upload HTTP/1.1" 200 -
+2025-08-08 17:44:21,822 - __main__ - INFO - Testing system components...
+2025-08-08 17:44:21,822 - __main__ - INFO - 🚀 Consultation automation system ready!
+2025-08-08 17:44:21,823 - __main__ - INFO - 📂 Upload directory: uploads/
+2025-08-08 17:44:21,823 - __main__ - INFO - 📂 Output directory: outputs/
+2025-08-08 17:44:21,866 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.172:8000
+2025-08-08 17:44:21,866 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-08 17:44:21,867 - werkzeug - INFO -  * Restarting with stat
+2025-08-08 17:44:22,109 - __main__ - INFO - Testing system components...
+2025-08-08 17:44:22,109 - __main__ - INFO - 🚀 Consultation automation system ready!
+2025-08-08 17:44:22,109 - __main__ - INFO - 📂 Upload directory: uploads/
+2025-08-08 17:44:22,109 - __main__ - INFO - 📂 Output directory: outputs/
+2025-08-08 17:44:22,135 - werkzeug - WARNING -  * Debugger is active!
+2025-08-08 17:44:22,143 - werkzeug - INFO -  * Debugger PIN: 376-841-687
+2025-08-08 17:44:25,913 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:44:25] "GET / HTTP/1.1" 200 -
+2025-08-08 17:44:26,004 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:44:26] "GET / HTTP/1.1" 200 -
+2025-08-08 17:44:30,069 - __main__ - INFO - 🚀 Starting complete automation workflow for: uploads/20250808_174430_business_consultations_single.pdf
+2025-08-08 17:44:30,069 - __main__ - INFO - Starting complete workflow for: uploads/20250808_174430_business_consultations_single.pdf
+2025-08-08 17:44:30,069 - __main__ - INFO - Step 1: OCR Processing...
+2025-08-08 17:44:30,069 - ocr_processor - INFO - Starting PDF processing: uploads/20250808_174430_business_consultations_single.pdf
+2025-08-08 17:44:30,069 - ocr_processor - INFO - Converting PDF to images: uploads/20250808_174430_business_consultations_single.pdf
+2025-08-08 17:44:30,549 - ocr_processor - INFO - Successfully converted 1 pages
+2025-08-08 17:44:30,549 - ocr_processor - INFO - Processing page 1/1
+2025-08-08 17:44:33,600 - ocr_processor - INFO - Page 1 processed successfully (confidence: 41.5%)
+2025-08-08 17:44:33,600 - ocr_processor - INFO - PDF processing complete. Processed 1 pages
+2025-08-08 17:44:33,601 - __main__ - INFO - Step 2: Form Parsing...
+2025-08-08 17:44:33,607 - form_parser - ERROR - Form parsing failed: no such group
+2025-08-08 17:44:33,607 - __main__ - WARNING - Form parsing failed for page 1
+2025-08-08 17:44:33,608 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:44:33] "POST /upload HTTP/1.1" 200 -
+2025-08-08 17:48:06,242 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:48:06] "GET / HTTP/1.1" 200 -
+2025-08-08 17:48:06,277 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:48:06] "GET / HTTP/1.1" 200 -
+2025-08-08 17:48:08,666 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:48:08] "GET / HTTP/1.1" 200 -
+2025-08-08 17:48:08,711 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:48:08] "GET / HTTP/1.1" 200 -
+2025-08-08 17:48:08,736 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:48:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-08 17:48:17,721 - __main__ - INFO - 🚀 Starting complete automation workflow for: uploads/20250808_174817_business_consultations_single.pdf
+2025-08-08 17:48:17,721 - __main__ - INFO - Starting complete workflow for: uploads/20250808_174817_business_consultations_single.pdf
+2025-08-08 17:48:17,721 - __main__ - INFO - Step 1: OCR Processing...
+2025-08-08 17:48:17,721 - ocr_processor - INFO - Starting PDF processing: uploads/20250808_174817_business_consultations_single.pdf
+2025-08-08 17:48:17,721 - ocr_processor - INFO - Converting PDF to images: uploads/20250808_174817_business_consultations_single.pdf
+2025-08-08 17:48:18,200 - ocr_processor - INFO - Successfully converted 1 pages
+2025-08-08 17:48:18,200 - ocr_processor - INFO - Processing page 1/1
+2025-08-08 17:48:21,302 - ocr_processor - INFO - Page 1 processed successfully (confidence: 41.5%)
+2025-08-08 17:48:21,302 - ocr_processor - INFO - PDF processing complete. Processed 1 pages
+2025-08-08 17:48:21,303 - __main__ - INFO - Step 2: Form Parsing...
+2025-08-08 17:48:21,304 - form_parser - ERROR - Form parsing failed: no such group
+2025-08-08 17:48:21,304 - __main__ - WARNING - Form parsing failed for page 1
+2025-08-08 17:48:21,305 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 17:48:21] "POST /upload HTTP/1.1" 200 -
