@@ -168,7 +168,9 @@ class FormParser:
         for pattern in notes_patterns:
             match = re.search(pattern, text, re.IGNORECASE | re.MULTILINE | re.DOTALL)
             if match:
-                notes = match.group(1).strip()
+                # Use captured group if present; otherwise use the whole match
+                captured = match.group(1) if (match.lastindex and match.lastindex >= 1) else match.group(0)
+                notes = captured.strip()
                 if len(notes) > 20:  # Ensure it's substantial text
                     return self.clean_text(notes)
         
